@@ -1,4 +1,4 @@
-# huffman
+# Huffman Code w/ Encoding
 
 The purpose of this project was to take an input file 
 with a sentence of characters. We were to then find the 
